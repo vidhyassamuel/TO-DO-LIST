@@ -1,0 +1,16 @@
+*body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color:#c0a237;
+}
+
+.wrapper h2{
+   display:flex;
+   justify-content: center;
+   
+}
+
+.h2{
+   color:#dfb93f;
+   letter-spacing: 1px;
+}
